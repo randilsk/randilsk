@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [Real State Property Classified Platform](https://github.com/randilsk/RealEstate-Web-App)
 
-- 🌱 I’m currently learning **Django and Spring Boot**
-
 - 📫 How to reach me **randilsulakkana@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
