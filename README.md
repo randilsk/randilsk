@@ -21,6 +21,13 @@ Hi! I'm **Randil**, a passionate developer and tech enthusiast. I love building 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <!-- Embedded & Hardware Design -->
+  <img src="https://img.shields.io/badge/Verilog-1572B6?style=for-the-badge&logo=verilog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VHDL-8B008B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SystemVerilog-FF8C00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FPGA-009688?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
   <!-- Add more as needed -->
 </p>
 
