@@ -1,60 +1,64 @@
-<!-- Modern & Techy GitHub Profile README for randilsk -->
+<h1 align="center">Sulakkana Randil</h1>
+<p align="center">
+  Electrical & Information Engineering Undergraduate · University of Ruhuna, Sri Lanka
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Randil+%F0%9F%91%8B;Tech+Enthusiast+%F0%9F%92%BB;Open+Source+Lover+%F0%9F%92%9A;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/sulakkana-randil-209450241">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://huggingface.co/spaces/randilsk/EG_2021_4745_human_activity_recognition">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+  </a>
+  <a href="mailto:your.real.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-Hi! I'm **Randil**, a passionate developer and tech enthusiast. I love building cool projects, exploring new technologies, and contributing to open source. Always eager to learn and collaborate!
+Final-year EIE undergraduate working at the intersection of robotics, embedded systems, and machine learning. My current focus is multi-UAV simulation — building a coordinated 5-UAV framework using ArduPilot SITL, ROS 2, Gazebo, and NS-3 for my final year project.
 
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <!-- Embedded & Hardware Design -->
-  <img src="https://img.shields.io/badge/Verilog-1572B6?style=for-the-badge&logo=verilog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VHDL-8B008B?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SystemVerilog-FF8C00?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FPGA-009688?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-  <!-- Add more as needed -->
-</p>
+Outside of the FYP, I build things: ML models, embedded sensor systems, and websites for local businesses.
 
 ---
 
-## 📊 GitHub Stats
+## Projects
+
+**[Multi-UAV Simulation Framework](https://github.com/randilsk/YOUR-FYP-REPO)** — *Final Year Project*
+> Coordinated simulation of 5+ UAVs with ArduPilot SITL + ROS 2 Humble + Gazebo 11 + NS-3. Includes camera feeds and network simulation per UAV. Built for the Dept. of Electrical & Information Engineering, University of Ruhuna.
+
+**[Human Activity Recognition — CNN-BiLSTM](https://github.com/randilsk/YOUR-HAR-REPO)**
+> Classifies 6 activities (cycling, running, walking, squats, pushups, table tennis) from raw 5-sensor accelerometer data. 91.92% test accuracy. Key finding: 2-sensor subset outperformed the full 5-sensor model (94.38%). Deployed on Hugging Face Spaces with a Gradio interface.
+
+**[Transmission Line Fault Detection](https://github.com/randilsk/Transmission-Line-Fault-Detection-Sensor-Project)**
+> ESP32-based system using ACS712, ZMPT101B, KY-026 and DS18B20 sensors to detect overcurrent, short circuits, and fire hazards in real time. LCD display output.
+
+---
+
+## Skills
+
+**ML / AI** — TensorFlow/Keras, CNN, LSTM, BiLSTM, scikit-learn, time-series classification, TFLite  
+**Robotics** — ROS 2, ArduPilot SITL, Gazebo, NS-3, MAVLink  
+**Embedded** — ESP32, Arduino, Raspberry Pi, FPGA, Verilog, VHDL  
+**Languages** — Python, C/C++, JavaScript, MATLAB  
+**Web** — React, Node.js, HTML/CSS  
+**Tools** — Git, Altium Designer, KiCad, Vivado, Google Colab, Linux
+
+---
+
+## Currently
+
+- 🎓 Final year — Dept. of Electrical & Information Engineering, University of Ruhuna
+- 🚁 FYP: Multi-UAV coordination and network simulation
+- 📡 Elective: Intelligent System Design
+- 💻 Freelance web development for local businesses in Galle
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=randilsk&show_icons=true&theme=tokyonight" alt="randilsk's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=randilsk&theme=tokyonight" alt="randilsk's GitHub streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randilsk&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=randilsk&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randilsk&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
-
----
-
-## 📫 Contact
-
-<p>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <!-- Add more social links as needed -->
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
-</p> 
