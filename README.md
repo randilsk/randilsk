@@ -19,24 +19,25 @@
 
 ## About
 
-Final-year EIE undergraduate working at the intersection of robotics, embedded systems, and machine learning. My current focus is multi-UAV simulation — building a coordinated 5-UAV framework using ArduPilot SITL, ROS 2, Gazebo, and NS-3 for my final year project.
+Final-year EIE undergraduate working at the intersection of robotics, embedded systems, and machine learning. My current focus is multi-UAV simulation — building a coordinated UAV framework using ArduPilot SITL, ROS 2, Gazebo, and NS-3 for my final year project.
 
-Outside of the FYP, I build things: ML models, embedded sensor systems, and websites for local businesses.
+Outside of the FYP, I build things: ML models, embedded sensor systems, and web and IOT solutions.
 
 ---
 
 ## Projects
 
-**[Multi-UAV Simulation Framework](https://github.com/randilsk/YOUR-FYP-REPO)** — *Final Year Project*
+**[Multi-UAV Simulation Framework](https://github.com/OpenAeroStack/multi_uav_simulation.git)** — *Final Year Project*
 > Coordinated simulation of 5+ UAVs with ArduPilot SITL + ROS 2 Humble + Gazebo 11 + NS-3. Includes camera feeds and network simulation per UAV. Built for the Dept. of Electrical & Information Engineering, University of Ruhuna.
 
-**[Human Activity Recognition — CNN-BiLSTM](https://github.com/randilsk/YOUR-HAR-REPO)**
+**[Mobile Robot Project based on SLAM and NAV2 stack](https://github.com/randilsk/mobile_robot_ros2_xv11_lidar.git)** — *Final Year Project*
+> An autonomous robot which detects obstacles in an indoor evironment and map them and do navigation to pointed locations, simulation and real world deployement were done
+
+
+**[Human Activity Recognition — CNN-BiLSTM](https://github.com/randilsk/human-activity-recognition-ml.git)**
 > Classifies 6 activities (cycling, running, walking, squats, pushups, table tennis) from raw 5-sensor accelerometer data. 91.92% test accuracy. Key finding: 2-sensor subset outperformed the full 5-sensor model (94.38%). Deployed on Hugging Face Spaces with a Gradio interface.
 
-**[Transmission Line Fault Detection](https://github.com/randilsk/Transmission-Line-Fault-Detection-Sensor-Project)**
-> ESP32-based system using ACS712, ZMPT101B, KY-026 and DS18B20 sensors to detect overcurrent, short circuits, and fire hazards in real time. LCD display output.
 
----
 
 ## Skills
 
