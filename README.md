@@ -7,10 +7,8 @@
   <a href="https://www.linkedin.com/in/sulakkana-randil-209450241">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://huggingface.co/spaces/randilsk/EG_2021_4745_human_activity_recognition">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
-  </a>
-  <a href="mailto:your.real.email@gmail.com">
+ 
+  <a href="mailto:randilsulakkana@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -30,7 +28,7 @@ Outside of the FYP, I build things: ML models, embedded sensor systems, and web 
 **[Multi-UAV Simulation Framework](https://github.com/OpenAeroStack/multi_uav_simulation.git)** — *Final Year Project*
 > Coordinated simulation of 5+ UAVs with ArduPilot SITL + ROS 2 Humble + Gazebo 11 + NS-3. Includes camera feeds and network simulation per UAV. Built for the Dept. of Electrical & Information Engineering, University of Ruhuna.
 
-**[Mobile Robot Project based on SLAM and NAV2 stack](https://github.com/randilsk/mobile_robot_ros2_xv11_lidar.git)** — *Final Year Project*
+**[Mobile Robot Project based on SLAM and NAV2 stack](https://github.com/randilsk/mobile_robot_ros2_xv11_lidar.git)** 
 > An autonomous robot which detects obstacles in an indoor evironment and map them and do navigation to pointed locations, simulation and real world deployement were done
 
 
